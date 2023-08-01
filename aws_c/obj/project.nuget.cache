@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kuw9epCFJrfsRc5CBOYzq9OYLv/JgQOaBdQzsCHfzW7NGIMdd4djPFBDR7vYoLn7TDC8kBwR+6RF2g65wxaoNw==",
+  "success": true,
+  "projectFilePath": "/home/perugo/dotnet_project/aws_c/aws_c.csproj",
+  "expectedPackageFiles": [
+    "/home/perugo/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/home/perugo/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/home/perugo/.nuget/packages/awssdk.core/3.7.200.6/awssdk.core.3.7.200.6.nupkg.sha512",
+    "/home/perugo/.nuget/packages/awssdk.extensions.netcore.setup/3.7.7/awssdk.extensions.netcore.setup.3.7.7.nupkg.sha512",
+    "/home/perugo/.nuget/packages/awssdk.s3/3.7.201.4/awssdk.s3.3.7.201.4.nupkg.sha512",
+    "/home/perugo/.nuget/packages/ffmediatoolkit/4.5.0/ffmediatoolkit.4.5.0.nupkg.sha512",
+    "/home/perugo/.nuget/packages/ffmpeg.autogen/6.0.0.2/ffmpeg.autogen.6.0.0.2.nupkg.sha512",
+    "/home/perugo/.nuget/packages/microsoft.extensions.configuration.abstractions/2.0.0/microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "/home/perugo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "/home/perugo/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "/home/perugo/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/home/perugo/.nuget/packages/sixlabors.imagesharp/3.0.1/sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp.nativeassets.linux/2.88.3/skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "/home/perugo/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/linux-x64/lightc.deps.json
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/linux-x64/lightc.runtimeconfig.json
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/linux-x64/lightc.dll
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/linux-x64/ref/lightc.dll
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/linux-x64/lightc.pdb
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.csproj.AssemblyReference.cache
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.GeneratedMSBuildEditorConfig.editorconfig
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.AssemblyInfoInputs.cache
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.AssemblyInfo.cs
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.csproj.CoreCompileInputs.cache
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.dll
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/ref/lightc.dll
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.pdb
+/home/perugo/dotnet_project/lightc/obj/Release/net6.0/linux-x64/lightc.genruntimeconfig.cache

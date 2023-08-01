@@ -1,0 +1,14 @@
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.csproj.AssemblyReference.cache
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.GeneratedMSBuildEditorConfig.editorconfig
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.AssemblyInfoInputs.cache
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.AssemblyInfo.cs
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.csproj.CoreCompileInputs.cache
+/home/perugo/dotnet_project/aws_c/bin/Release/net6.0/linux-x64/aws_c.deps.json
+/home/perugo/dotnet_project/aws_c/bin/Release/net6.0/linux-x64/aws_c.runtimeconfig.json
+/home/perugo/dotnet_project/aws_c/bin/Release/net6.0/linux-x64/aws_c.dll
+/home/perugo/dotnet_project/aws_c/bin/Release/net6.0/linux-x64/ref/aws_c.dll
+/home/perugo/dotnet_project/aws_c/bin/Release/net6.0/linux-x64/aws_c.pdb
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.dll
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/ref/aws_c.dll
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.pdb
+/home/perugo/dotnet_project/aws_c/obj/Release/net6.0/linux-x64/aws_c.genruntimeconfig.cache

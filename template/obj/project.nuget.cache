@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RHyKcC7/AWO9XMQ6CytVgOH1A1LELQj6H8XiedqbSZkNMzTd06rR0pmGDo+ezhwbe4vk8kt1vHzOKmCfvIdxVQ==",
+  "success": true,
+  "projectFilePath": "/home/perugo/dotnet_project/template/template.csproj",
+  "expectedPackageFiles": [
+    "/home/perugo/.nuget/packages/ffmediatoolkit/4.5.0/ffmediatoolkit.4.5.0.nupkg.sha512",
+    "/home/perugo/.nuget/packages/ffmpeg.autogen/6.0.0.2/ffmpeg.autogen.6.0.0.2.nupkg.sha512",
+    "/home/perugo/.nuget/packages/sixlabors.imagesharp/3.0.1/sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp.nativeassets.linux/2.88.3/skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "/home/perugo/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}

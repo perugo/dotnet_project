@@ -1,0 +1,6 @@
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/publish/lightc.dll
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/publish/lightc.deps.json
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/publish/lightc.runtimeconfig.json
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/publish/lightc.pdb
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/home/perugo/dotnet_project/lightc/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
