@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Kuw9epCFJrfsRc5CBOYzq9OYLv/JgQOaBdQzsCHfzW7NGIMdd4djPFBDR7vYoLn7TDC8kBwR+6RF2g65wxaoNw==",
+  "dgSpecHash": "DQCJ5NDuFmuQDS93AZCJMiSedCNbuXSr4qAE8zrpwlzr8ccd/6AyUWwsg+wvdm51Z1ZX6oPxcvFXxqkRIhcPLQ==",
   "success": true,
   "projectFilePath": "/home/perugo/dotnet_project/aws_c/aws_c.csproj",
   "expectedPackageFiles": [
